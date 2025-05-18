@@ -1,0 +1,14 @@
+.app-container {
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
